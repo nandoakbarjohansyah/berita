@@ -1,0 +1,3 @@
+import databasenya di folder :"databasenya"
+nyalakan web service 
+lalu buka dengan link "localhost/berita"
