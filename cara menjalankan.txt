@@ -1,3 +1,9 @@
 import databasenya di folder :"databasenya"
 nyalakan web service 
 lalu buka dengan link "localhost/berita"
+
+admin : nandoakbar42@gmail.com / nando akbar
+pw : 123456
+
+user : reja@gmail.com
+pw : 1234567
